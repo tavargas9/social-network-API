@@ -50,6 +50,16 @@ module.exports = {
       res.status(500).json(err);
     }
   },
+  // Update a user by its id
+  async updateUser(req, res) {
+    try {
+      const user = await User.findOneAndUpdate(
+        { }
+      )
+    } catch {
+      
+    }
+  },
   // Delete a user and remove them from the thought
   async deleteUser(req, res) {
     try {
