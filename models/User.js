@@ -1,6 +1,6 @@
 const { Schema, Types, model } = require('mongoose');
 
-// Schema to create a course model
+// Schema to create a user model
 const userSchema = new Schema(
 
 );
