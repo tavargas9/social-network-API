@@ -55,7 +55,7 @@ Here is a list of the different routes and their corresponding crud operations:
 - POST to create a reaction stored in a single thought's reactions array field
 
 ```/api/thoughts/:thoughtId/reactions/:reactionId```
-- DELETE to pull and remove a reaction by the reaction's reactionId value
+- DELETE to pull and remove a reaction by the reaction's ```reactionId``` value
 
 ## License 
 
