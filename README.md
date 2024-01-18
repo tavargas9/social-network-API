@@ -23,6 +23,8 @@ Fork or clone this git repository to your local machine and open it in your IDE 
 
 ## Usage
 
+To see this application in action, check out the [Walkthrough Video!](https://drive.google.com/file/d/1J_0leBw5A9wDMRu2pHkyb4szPy_nepDx/view)
+
 Once your local repository is set up, go to the terminal and run ```npm run seed``` to seed the database with starter user data. To start the server, run ```npm run start``` in the terminal. The server should now be running and is read for CRUD operations. I suggest using Insomnia to make requests to the API. 
 
 Here is a list of the different routes and their corresponding crud operations:
