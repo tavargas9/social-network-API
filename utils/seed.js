@@ -5,27 +5,12 @@ const userData = [
     {
         username: 'tonyv9',
         email: 'tony@gmail.com',
-        thoughts: [
-            {
-                thoughtText: 'I feel like eating cheese today 🤣'
-            }
-        ],
+        thoughts: [],
     },
     {
         username: 'mkultra',
         email: 'mckayla@gmail.com',
-        thoughts: [
-            {
-                thoughtText: 'I am really in the mood for some SUNSHINE! ☀️',
-                username: 'mkultra',
-                reactions: [
-                    {
-                        reactionBody: 'OMG samsies! Give me some SUN, son!',
-                        username: 'tonyv9',
-                    }
-                ]
-            },
-        ],
+        thoughts: [],
     },
 ];
 
