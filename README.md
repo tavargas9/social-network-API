@@ -25,6 +25,8 @@ Fork or clone this git repository to your local machine and open it in your IDE 
 
 To see this application in action, check out the [Walkthrough Video!](https://drive.google.com/file/d/1J_0leBw5A9wDMRu2pHkyb4szPy_nepDx/view)
 
+![Screenshot 2024-01-24 at 8 50 37 PM](https://github.com/tavargas9/social-network-API/assets/142061829/a2f6bb77-0eb3-451e-95e2-22125c9614bd)
+
 Once your local repository is set up, go to the terminal and run ```npm run seed``` to seed the database with starter user data. To start the server, run ```npm run start``` in the terminal. The server should now be running and is read for CRUD operations. I suggest using Insomnia to make requests to the API. 
 
 Here is a list of the different routes and their corresponding crud operations:
